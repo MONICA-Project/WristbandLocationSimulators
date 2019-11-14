@@ -45,7 +45,7 @@ $ sh launch.sh
 
 It launches simulation with associated file settings reported in [$REPOROOT\settings\settingsApplication.conf](settings/settingsApplication.conf)
   
-## Settings
+### Settings
 
 Content of file settings (see [$REPOROOT\settings\settingsApplication.conf](settings/settingsApplication.conf)): 
  
