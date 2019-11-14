@@ -1,0 +1,582 @@
+THREAD CROWDSIMULATION ID: 1 NumberDevices: 9
+THREAD CROWDSIMULATION ID: 2 NumberDevices: 9
+THREAD CROWDSIMULATION ID: 3 NumberDevices: 9
+THREAD CROWDSIMULATION ID: 4 NumberDevices: 9
+THREAD CROWDSIMULATION ID: 5 NumberDevices: 9
+THREAD CROWDSIMULATION ID: 6 NumberDevices: 9
+THREAD CROWDSIMULATION ID: 7 NumberDevices: 9
+THREAD CROWDSIMULATION ID: 8 NumberDevices: 9
+THREAD CROWDSIMULATION ID: 9 NumberDevices: 9
+THREAD CROWDSIMULATION ID: 10 NumberDevices: 9
+THREAD CROWDSIMULATION ID: 11 NumberDevices: 9
+THREAD CROWDSIMULATION ID: 12 NumberDevices: 9
+THREAD CROWDSIMULATION ID: 13 NumberDevices: 9
+THREAD CROWDSIMULATION ID: 14 NumberDevices: 9
+THREAD CROWDSIMULATION ID: 15 NumberDevices: 9
+THREAD CROWDSIMULATION ID: 16 NumberDevices: 9
+THREAD CROWDSIMULATION ID: 17 NumberDevices: 9
+THREAD CROWDSIMULATION ID: 18 NumberDevices: 9
+THREAD CROWDSIMULATION ID: 19 NumberDevices: 9
+THREAD CROWDSIMULATION ID: 20 NumberDevices: 9
+THREAD CROWDSIMULATION ID: 21 NumberDevices: 9
+THREAD CROWDSIMULATION ID: 22 NumberDevices: 9
+Initialization Started
+CrowdSimulation Start Random List with 200 Number Elements
+PublishObservation Active
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+Initialization Started
+CrowdSimulation Start Random List with 200 Number Elements
+Initialization Started
+CrowdSimulation Start Random List with 200 Number Elements
+Initialization Started
+CrowdSimulation Start Random List with 200 Number Elements
+PublishObservation Active
+PublishObservation Active
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+PublishObservation Active
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+Initialization Started
+CrowdSimulation Start Random List with 200 Number Elements
+Initialization Started
+CrowdSimulation Start Random List with 200 Number Elements
+Initialization Started
+CrowdSimulation Start Random List with 200 Number Elements
+Initialization Started
+CrowdSimulation Start Random List with 200 Number Elements
+PublishObservation Active
+PublishObservation Active
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+PublishObservation Active
+PublishObservation Active
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+Initialization Started
+CrowdSimulation Start Random List with 200 Number Elements
+Initialization Started
+CrowdSimulation Start Random List with 200 Number Elements
+Initialization Started
+CrowdSimulation Start Random List with 200 Number Elements
+Initialization Started
+CrowdSimulation Start Random List with 200 Number Elements
+Initialization Started
+PublishObservation Active
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+PublishObservation Active
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+PublishObservation Active
+PublishObservation Active
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+Initialization Started
+CrowdSimulation Start Random List with 200 Number Elements
+Initialization Started
+CrowdSimulation Start Random List with 200 Number Elements
+CrowdSimulation Start Random List with 200 Number Elements
+PublishObservation Active
+PublishObservation Active
+PublishObservation Active
+Initialization Started
+CrowdSimulation Start Random List with 200 Number Elements
+Initialization Started
+CrowdSimulation Start Random List with 200 Number Elements
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+Initialization Started
+Initialization Started
+CrowdSimulation Start Random List with 200 Number Elements
+Initialization Started
+CrowdSimulation Start Random List with 200 Number Elements
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+PublishObservation Active
+PublishObservation Active
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+CrowdSimulation Start Random List with 200 Number Elements
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+Initialization Started
+CrowdSimulation Start Random List with 200 Number Elements
+Initialization Started
+CrowdSimulation Start Random List with 200 Number Elements
+PublishObservation Active
+PublishObservation Active
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+PublishObservation Active
+PublishObservation Active
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+PublishObservation Active
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+2019/05/21 16:20:42 publishWristbandLocations GeoTag0
+OBSERVATION: {"tagId":"GeoTag00","type":"868","areaId":"LST","motion_state":"unknown","lat":55.673839347469254,"lon":12.56829227932246,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:42.090Z"}
+OBSERVATION: {"tagId":"GeoTag00","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67383650753586,"lon":12.569776855376382,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:42.094Z"}
+OBSERVATION: {"tagId":"GeoTag00","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67383756612592,"lon":12.573681723492921,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:42.092Z"}
+OBSERVATION: {"tagId":"GeoTag00","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67383561385241,"lon":12.572471577234275,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:42.094Z"}
+OBSERVATION: {"tagId":"GeoTag00","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67383514483039,"lon":12.573818938113522,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:42.094Z"}
+OBSERVATION: {"tagId":"GeoTag00","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67383514483039,"lon":12.573818938113522,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:42.093Z"}
+OBSERVATION: {"tagId":"GeoTag00","type":"868","areaId":"LST","motion_state":"unknown","lat":55.673839347469254,"lon":12.56829227932246,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:42.090Z"}
+OBSERVATION: {"tagId":"GeoTag00","type":"868","areaId":"LST","motion_state":"unknown","lat":55.673837342138796,"lon":12.567082133395889,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:42.090Z"}
+OBSERVATION: {"tagId":"GeoTag00","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67383561385241,"lon":12.572471577234275,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:42.092Z"}
+OBSERVATION: {"tagId":"GeoTag00","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67383650753586,"lon":12.569776855376382,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:42.094Z"}
+OBSERVATION: {"tagId":"GeoTag00","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67383514483039,"lon":12.573818938113522,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:42.093Z"}
+OBSERVATION: {"tagId":"GeoTag00","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67383803364204,"lon":12.572334362528634,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:42.092Z"}
+OBSERVATION: {"tagId":"GeoTag00","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67383514483039,"lon":12.573818938113522,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:42.093Z"}
+OBSERVATION: {"tagId":"GeoTag00","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67383650753586,"lon":12.569776855376382,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:42.094Z"}
+OBSERVATION: {"tagId":"GeoTag00","type":"868","areaId":"LST","motion_state":"unknown","lat":55.6738369321973,"lon":12.568429494282297,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:42.090Z"}
+OBSERVATION: {"tagId":"GeoTag00","type":"868","areaId":"LST","motion_state":"unknown","lat":55.673837342138796,"lon":12.567082133395889,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:42.090Z"}
+OBSERVATION: {"tagId":"GeoTag00","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67383803364204,"lon":12.572334362528634,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:42.091Z"}
+OBSERVATION: {"tagId":"GeoTag00","type":"868","areaId":"LST","motion_state":"unknown","lat":55.673839347469254,"lon":12.56829227932246,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:42.090Z"}
+OBSERVATION: {"tagId":"GeoTag00","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67383514483039,"lon":12.573818938113522,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:42.095Z"}
+OBSERVATION: {"tagId":"GeoTag00","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67383650753586,"lon":12.569776855376382,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:42.094Z"}
+OBSERVATION: {"tagId":"GeoTag00","type":"868","areaId":"LST","motion_state":"unknown","lat":55.673837342138796,"lon":12.567082133395889,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:42.090Z"}
+OBSERVATION: {"tagId":"GeoTag00","type":"868","areaId":"LST","motion_state":"unknown","lat":55.673839347469254,"lon":12.56829227932246,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:42.090Z"}
+2019/05/21 16:20:43 Success Publish GeoTagGeoTag00, Intervalms: 1335
+2019/05/21 16:20:43 Success Publish GeoTagGeoTag00, Intervalms: 1335
+2019/05/21 16:20:43 Success Publish GeoTagGeoTag00, Intervalms: 1342
+2019/05/21 16:20:43 Success Publish GeoTagGeoTag00, Intervalms: 1340
+2019/05/21 16:20:43 Success Publish GeoTagGeoTag00, Intervalms: 1342
+2019/05/21 16:20:44 publishWristbandLocations GeoTag1
+2019/05/21 16:20:44 publishWristbandLocations GeoTag1
+2019/05/21 16:20:44 publishWristbandLocations GeoTag1
+2019/05/21 16:20:44 publishWristbandLocations GeoTag1
+OBSERVATION: {"tagId":"GeoTag01","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67441935739169,"lon":12.572400777757256,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:44.481Z"}
+OBSERVATION: {"tagId":"GeoTag01","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67441935739169,"lon":12.572400777757256,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:44.481Z"}
+2019/05/21 16:20:44 publishWristbandLocations GeoTag1
+2019/05/21 16:20:44 publishWristbandLocations GeoTag1
+2019/05/21 16:20:44 publishWristbandLocations GeoTag1
+2019/05/21 16:20:44 publishWristbandLocations GeoTag1
+OBSERVATION: {"tagId":"GeoTag01","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67441888914615,"lon":12.573748158816548,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:44.486Z"}
+OBSERVATION: {"tagId":"GeoTag01","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67441888914615,"lon":12.573748158816548,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:44.486Z"}
+2019/05/21 16:20:44 publishWristbandLocations GeoTag1
+2019/05/21 16:20:44 publishWristbandLocations GeoTag1
+OBSERVATION: {"tagId":"GeoTag01","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67441866859511,"lon":12.56714847086626,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:44.487Z"}
+2019/05/21 16:20:49 Success Publish GeoTagGeoTag00, Intervalms: 7485
+2019/05/21 16:20:50 Success Publish GeoTagGeoTag00, Intervalms: 7932
+2019/05/21 16:20:50 Success Publish GeoTagGeoTag00, Intervalms: 8359
+2019/05/21 16:20:50 publishWristbandLocations GeoTag1
+2019/05/21 16:20:50 publishWristbandLocations GeoTag1
+OBSERVATION: {"tagId":"GeoTag01","type":"868","areaId":"LST","motion_state":"unknown","lat":55.674790167111524,"lon":12.574818049707725,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:50.630Z"}
+2019/05/21 16:20:50 Success Publish GeoTagGeoTag00, Intervalms: 8816
+2019/05/21 16:20:51 publishWristbandLocations GeoTag1
+2019/05/21 16:20:51 publishWristbandLocations GeoTag1
+OBSERVATION: {"tagId":"GeoTag01","type":"868","areaId":"LST","motion_state":"unknown","lat":55.674608923798424,"lon":12.570562518407145,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:51.077Z"}
+2019/05/21 16:20:51 Success Publish GeoTagGeoTag00, Intervalms: 9288
+2019/05/21 16:20:51 publishWristbandLocations GeoTag1
+2019/05/21 16:20:51 publishWristbandLocations GeoTag1
+OBSERVATION: {"tagId":"GeoTag01","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67475964627669,"lon":12.573907095921005,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:51.506Z"}
+2019/05/21 16:20:51 publishWristbandLocations GeoTag1
+2019/05/21 16:20:51 publishWristbandLocations GeoTag1
+OBSERVATION: {"tagId":"GeoTag01","type":"868","areaId":"LST","motion_state":"unknown","lat":55.676120367536136,"lon":12.570735137422215,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:51.960Z"}
+2019/05/21 16:20:52 publishWristbandLocations GeoTag1
+2019/05/21 16:20:52 publishWristbandLocations GeoTag1
+OBSERVATION: {"tagId":"GeoTag01","type":"868","areaId":"LST","motion_state":"unknown","lat":55.675930022833555,"lon":12.572280879700678,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:52.433Z"}
+2019/05/21 16:20:53 Success Publish GeoTagGeoTag00, Intervalms: 11352
+2019/05/21 16:20:53 Success Publish GeoTagGeoTag00, Intervalms: 11353
+2019/05/21 16:20:53 Success Publish GeoTagGeoTag00, Intervalms: 11354
+2019/05/21 16:20:53 Success Publish GeoTagGeoTag00, Intervalms: 11353
+2019/05/21 16:20:53 Success Publish GeoTagGeoTag00, Intervalms: 11370
+2019/05/21 16:20:54 publishWristbandLocations GeoTag1
+2019/05/21 16:20:54 publishWristbandLocations GeoTag1
+2019/05/21 16:20:54 publishWristbandLocations GeoTag1
+2019/05/21 16:20:54 publishWristbandLocations GeoTag1
+OBSERVATION: {"tagId":"GeoTag01","type":"868","areaId":"LST","motion_state":"unknown","lat":55.676735943572,"lon":12.567532922647391,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:54.498Z"}
+OBSERVATION: {"tagId":"GeoTag01","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67673552868246,"lon":12.56888038326516,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:54.499Z"}
+2019/05/21 16:20:54 publishWristbandLocations GeoTag1
+2019/05/21 16:20:54 publishWristbandLocations GeoTag1
+2019/05/21 16:20:54 publishWristbandLocations GeoTag1
+2019/05/21 16:20:54 publishWristbandLocations GeoTag1
+OBSERVATION: {"tagId":"GeoTag01","type":"868","areaId":"LST","motion_state":"unknown","lat":55.676733529149864,"lon":12.567670147910496,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:54.500Z"}
+OBSERVATION: {"tagId":"GeoTag01","type":"868","areaId":"LST","motion_state":"unknown","lat":55.676733529149864,"lon":12.567670147910496,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:54.501Z"}
+2019/05/21 16:20:54 publishWristbandLocations GeoTag1
+2019/05/21 16:20:54 publishWristbandLocations GeoTag1
+OBSERVATION: {"tagId":"GeoTag01","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67674191057244,"lon":12.571163629518017,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:20:54.515Z"}
+2019/05/21 16:20:59 Success Publish GeoTagGeoTag00, Intervalms: 17522
+2019/05/21 16:21:00 Success Publish GeoTagGeoTag00, Intervalms: 17969
+2019/05/21 16:21:00 Success Publish GeoTagGeoTag00, Intervalms: 18407
+2019/05/21 16:21:00 publishWristbandLocations GeoTag1
+2019/05/21 16:21:00 publishWristbandLocations GeoTag1
+OBSERVATION: {"tagId":"GeoTag01","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67261698781627,"lon":12.573854707596468,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:00.668Z"}
+2019/05/21 16:21:00 Success Publish GeoTagGeoTag00, Intervalms: 18834
+2019/05/21 16:21:01 publishWristbandLocations GeoTag1
+2019/05/21 16:21:01 publishWristbandLocations GeoTag1
+OBSERVATION: {"tagId":"GeoTag01","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67693011053602,"lon":12.573367657254915,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:01.114Z"}
+2019/05/21 16:21:01 Success Publish GeoTagGeoTag00, Intervalms: 19329
+2019/05/21 16:21:01 publishWristbandLocations GeoTag1
+2019/05/21 16:21:01 publishWristbandLocations GeoTag1
+OBSERVATION: {"tagId":"GeoTag01","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67663847269948,"lon":12.57272932366076,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:01.551Z"}
+2019/05/21 16:21:01 publishWristbandLocations GeoTag1
+2019/05/21 16:21:01 publishWristbandLocations GeoTag1
+OBSERVATION: {"tagId":"GeoTag01","type":"868","areaId":"LST","motion_state":"unknown","lat":55.673636166212184,"lon":12.57023144440982,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:01.979Z"}
+2019/05/21 16:21:02 publishWristbandLocations GeoTag1
+2019/05/21 16:21:02 publishWristbandLocations GeoTag1
+OBSERVATION: {"tagId":"GeoTag01","type":"868","areaId":"LST","motion_state":"unknown","lat":55.6734216292047,"lon":12.573149224345029,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:02.476Z"}
+2019/05/21 16:21:03 Success Publish GeoTagGeoTag00, Intervalms: 21377
+2019/05/21 16:21:03 Success Publish GeoTagGeoTag00, Intervalms: 21379
+2019/05/21 16:21:03 Success Publish GeoTagGeoTag01, Intervalms: 19045
+2019/05/21 16:21:03 Success Publish GeoTagGeoTag01, Intervalms: 19048
+2019/05/21 16:21:03 Success Publish GeoTagGeoTag01, Intervalms: 19045
+2019/05/21 16:21:04 publishWristbandLocations GeoTag1
+2019/05/21 16:21:04 publishWristbandLocations GeoTag1
+2019/05/21 16:21:04 publishWristbandLocations GeoTag1
+2019/05/21 16:21:04 publishWristbandLocations GeoTag1
+OBSERVATION: {"tagId":"GeoTag01","type":"868","areaId":"LST","motion_state":"unknown","lat":55.6766381511679,"lon":12.571089273938608,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:04.523Z"}
+OBSERVATION: {"tagId":"GeoTag01","type":"868","areaId":"LST","motion_state":"unknown","lat":55.6766381511679,"lon":12.571089273938608,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:04.523Z"}
+2019/05/21 16:21:04 publishWristbandLocations GeoTag2
+2019/05/21 16:21:04 publishWristbandLocations GeoTag2
+OBSERVATION: {"tagId":"GeoTag02","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67663701011967,"lon":12.567184126947122,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:04.526Z"}
+2019/05/21 16:21:04 publishWristbandLocations GeoTag2
+2019/05/21 16:21:04 publishWristbandLocations GeoTag2
+2019/05/21 16:21:04 publishWristbandLocations GeoTag2
+2019/05/21 16:21:04 publishWristbandLocations GeoTag2
+OBSERVATION: {"tagId":"GeoTag02","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67664782315556,"lon":12.570540375318938,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:04.531Z"}
+OBSERVATION: {"tagId":"GeoTag02","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67664782315556,"lon":12.570540375318938,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:04.531Z"}
+2019/05/21 16:21:09 Success Publish GeoTagGeoTag01, Intervalms: 25195
+2019/05/21 16:21:10 Success Publish GeoTagGeoTag01, Intervalms: 25684
+2019/05/21 16:21:10 Success Publish GeoTagGeoTag01, Intervalms: 19926
+2019/05/21 16:21:10 publishWristbandLocations GeoTag2
+2019/05/21 16:21:10 publishWristbandLocations GeoTag2
+OBSERVATION: {"tagId":"GeoTag02","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67462462687639,"lon":12.570656805845813,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:10.681Z"}
+2019/05/21 16:21:11 Success Publish GeoTagGeoTag01, Intervalms: 19937
+2019/05/21 16:21:11 publishWristbandLocations GeoTag2
+2019/05/21 16:21:11 publishWristbandLocations GeoTag2
+OBSERVATION: {"tagId":"GeoTag02","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67441427150044,"lon":12.568047917152066,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:11.172Z"}
+2019/05/21 16:21:11 Success Publish GeoTagGeoTag01, Intervalms: 19979
+2019/05/21 16:21:11 publishWristbandLocations GeoTag2
+2019/05/21 16:21:11 publishWristbandLocations GeoTag2
+OBSERVATION: {"tagId":"GeoTag02","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67415623447191,"lon":12.573435653721923,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:11.557Z"}
+2019/05/21 16:21:12 publishWristbandLocations GeoTag2
+2019/05/21 16:21:12 publishWristbandLocations GeoTag2
+OBSERVATION: {"tagId":"GeoTag02","type":"868","areaId":"LST","motion_state":"unknown","lat":55.674283084759736,"lon":12.570205322644851,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:12.014Z"}
+2019/05/21 16:21:12 publishWristbandLocations GeoTag2
+2019/05/21 16:21:12 publishWristbandLocations GeoTag2
+OBSERVATION: {"tagId":"GeoTag02","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67363943588117,"lon":12.569371875942931,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:12.485Z"}
+2019/05/21 16:21:13 Success Publish GeoTagGeoTag01, Intervalms: 21569
+2019/05/21 16:21:13 Success Publish GeoTagGeoTag01, Intervalms: 21096
+2019/05/21 16:21:13 Success Publish GeoTagGeoTag01, Intervalms: 19056
+2019/05/21 16:21:13 Success Publish GeoTagGeoTag01, Intervalms: 19055
+2019/05/21 16:21:13 Success Publish GeoTagGeoTag01, Intervalms: 19055
+2019/05/21 16:21:14 publishWristbandLocations GeoTag2
+2019/05/21 16:21:14 publishWristbandLocations GeoTag2
+2019/05/21 16:21:14 publishWristbandLocations GeoTag2
+2019/05/21 16:21:14 publishWristbandLocations GeoTag2
+OBSERVATION: {"tagId":"GeoTag02","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67446494334467,"lon":12.570126092981774,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:14.529Z"}
+OBSERVATION: {"tagId":"GeoTag02","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67446494334467,"lon":12.570126092981774,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:14.529Z"}
+2019/05/21 16:21:14 publishWristbandLocations GeoTag2
+2019/05/21 16:21:14 publishWristbandLocations GeoTag2
+2019/05/21 16:21:14 publishWristbandLocations GeoTag2
+2019/05/21 16:21:14 publishWristbandLocations GeoTag2
+OBSERVATION: {"tagId":"GeoTag02","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67446888213389,"lon":12.572546424239999,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:14.555Z"}
+OBSERVATION: {"tagId":"GeoTag02","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67446888213389,"lon":12.572546424239999,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:14.555Z"}
+2019/05/21 16:21:14 publishWristbandLocations GeoTag2
+2019/05/21 16:21:14 publishWristbandLocations GeoTag2
+OBSERVATION: {"tagId":"GeoTag02","type":"868","areaId":"LST","motion_state":"unknown","lat":55.674466918737096,"lon":12.571336258550705,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:14.556Z"}
+2019/05/21 16:21:19 Success Publish GeoTagGeoTag01, Intervalms: 25182
+2019/05/21 16:21:20 Success Publish GeoTagGeoTag01, Intervalms: 25640
+2019/05/21 16:21:20 Success Publish GeoTagGeoTag01, Intervalms: 19918
+2019/05/21 16:21:20 publishWristbandLocations GeoTag2
+2019/05/21 16:21:20 publishWristbandLocations GeoTag2
+OBSERVATION: {"tagId":"GeoTag02","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67484017056896,"lon":12.573616305235229,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:20.699Z"}
+2019/05/21 16:21:21 Success Publish GeoTagGeoTag01, Intervalms: 19927
+2019/05/21 16:21:21 publishWristbandLocations GeoTag2
+2019/05/21 16:21:21 publishWristbandLocations GeoTag2
+OBSERVATION: {"tagId":"GeoTag02","type":"868","areaId":"LST","motion_state":"unknown","lat":55.674559107176826,"lon":12.569734363396703,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:21.142Z"}
+2019/05/21 16:21:21 Success Publish GeoTagGeoTag01, Intervalms: 19947
+2019/05/21 16:21:21 publishWristbandLocations GeoTag2
+2019/05/21 16:21:21 publishWristbandLocations GeoTag2
+OBSERVATION: {"tagId":"GeoTag02","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67437995409465,"lon":12.573288724718592,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:21.588Z"}
+2019/05/21 16:21:22 publishWristbandLocations GeoTag2
+2019/05/21 16:21:22 publishWristbandLocations GeoTag2
+OBSERVATION: {"tagId":"GeoTag02","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67409268757578,"lon":12.573723371668551,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:22.041Z"}
+2019/05/21 16:21:22 publishWristbandLocations GeoTag2
+2019/05/21 16:21:22 publishWristbandLocations GeoTag2
+OBSERVATION: {"tagId":"GeoTag02","type":"868","areaId":"LST","motion_state":"unknown","lat":55.675543064892814,"lon":12.572074167837581,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:22.501Z"}
+2019/05/21 16:21:23 Success Publish GeoTagGeoTag01, Intervalms: 21078
+2019/05/21 16:21:23 Success Publish GeoTagGeoTag01, Intervalms: 21576
+2019/05/21 16:21:23 Success Publish GeoTagGeoTag01, Intervalms: 19033
+2019/05/21 16:21:23 Success Publish GeoTagGeoTag01, Intervalms: 19034
+2019/05/21 16:21:23 Success Publish GeoTagGeoTag02, Intervalms: 19046
+2019/05/21 16:21:24 publishWristbandLocations GeoTag2
+2019/05/21 16:21:24 publishWristbandLocations GeoTag2
+2019/05/21 16:21:24 publishWristbandLocations GeoTag2
+2019/05/21 16:21:24 publishWristbandLocations GeoTag2
+OBSERVATION: {"tagId":"GeoTag02","type":"868","areaId":"LST","motion_state":"unknown","lat":55.676365660838094,"lon":12.574313149885713,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:24.555Z"}
+OBSERVATION: {"tagId":"GeoTag02","type":"868","areaId":"LST","motion_state":"unknown","lat":55.676365660838094,"lon":12.574313149885713,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:24.555Z"}
+2019/05/21 16:21:24 publishWristbandLocations GeoTag2
+2019/05/21 16:21:24 publishWristbandLocations GeoTag2
+2019/05/21 16:21:24 publishWristbandLocations GeoTag2
+2019/05/21 16:21:24 publishWristbandLocations GeoTag2
+OBSERVATION: {"tagId":"GeoTag02","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67636323883763,"lon":12.574450373315383,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:24.557Z"}
+OBSERVATION: {"tagId":"GeoTag02","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67636323883763,"lon":12.574450373315383,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:24.557Z"}
+2019/05/21 16:21:24 publishWristbandLocations GeoTag3
+2019/05/21 16:21:24 publishWristbandLocations GeoTag3
+OBSERVATION: {"tagId":"GeoTag03","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67636988565396,"lon":12.56878613454273,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:24.573Z"}
+2019/05/21 16:21:29 Success Publish GeoTagGeoTag02, Intervalms: 25176
+2019/05/21 16:21:30 Success Publish GeoTagGeoTag02, Intervalms: 25631
+2019/05/21 16:21:30 publishWristbandLocations GeoTag3
+2019/05/21 16:21:30 publishWristbandLocations GeoTag3
+OBSERVATION: {"tagId":"GeoTag03","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67674468403168,"lon":12.573623964322763,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:30.708Z"}
+2019/05/21 16:21:31 Success Publish GeoTagGeoTag02, Intervalms: 20355
+2019/05/21 16:21:31 publishWristbandLocations GeoTag3
+2019/05/21 16:21:31 publishWristbandLocations GeoTag3
+OBSERVATION: {"tagId":"GeoTag03","type":"868","areaId":"LST","motion_state":"unknown","lat":55.676563819564336,"lon":12.568020771687555,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:31.162Z"}
+2019/05/21 16:21:31 Success Publish GeoTagGeoTag02, Intervalms: 20340
+2019/05/21 16:21:32 publishWristbandLocations GeoTag3
+2019/05/21 16:21:32 publishWristbandLocations GeoTag3
+OBSERVATION: {"tagId":"GeoTag03","type":"868","areaId":"LST","motion_state":"unknown","lat":55.6760940906462,"lon":12.574842103991742,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:32.037Z"}
+2019/05/21 16:21:32 publishWristbandLocations GeoTag3
+2019/05/21 16:21:32 publishWristbandLocations GeoTag3
+OBSERVATION: {"tagId":"GeoTag03","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67621175181199,"lon":12.570813067495616,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:32.513Z"}
+2019/05/21 16:21:33 Success Publish GeoTagGeoTag02, Intervalms: 21558
+2019/05/21 16:21:33 Success Publish GeoTagGeoTag02, Intervalms: 21087
+2019/05/21 16:21:33 Success Publish GeoTagGeoTag02, Intervalms: 22016
+2019/05/21 16:21:33 Success Publish GeoTagGeoTag02, Intervalms: 19048
+2019/05/21 16:21:33 Success Publish GeoTagGeoTag02, Intervalms: 19053
+2019/05/21 16:21:34 publishWristbandLocations GeoTag3
+2019/05/21 16:21:34 publishWristbandLocations GeoTag3
+2019/05/21 16:21:34 publishWristbandLocations GeoTag3
+2019/05/21 16:21:34 publishWristbandLocations GeoTag3
+2019/05/21 16:21:34 publishWristbandLocations GeoTag3
+2019/05/21 16:21:34 publishWristbandLocations GeoTag3
+OBSERVATION: {"tagId":"GeoTag03","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67253996156515,"lon":12.569283846789643,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:34.574Z"}
+OBSERVATION: {"tagId":"GeoTag03","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67253996156515,"lon":12.569283846789643,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:34.574Z"}
+OBSERVATION: {"tagId":"GeoTag03","type":"868","areaId":"LST","motion_state":"unknown","lat":55.672541035840354,"lon":12.57318858576956,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:34.574Z"}
+2019/05/21 16:21:34 publishWristbandLocations GeoTag3
+2019/05/21 16:21:34 publishWristbandLocations GeoTag3
+OBSERVATION: {"tagId":"GeoTag03","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67255245282312,"lon":12.567250477811513,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:34.579Z"}
+2019/05/21 16:21:34 publishWristbandLocations GeoTag3
+2019/05/21 16:21:34 publishWristbandLocations GeoTag3
+OBSERVATION: {"tagId":"GeoTag03","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67255024635258,"lon":12.573987061749202,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:34.583Z"}
+2019/05/21 16:21:39 Success Publish GeoTagGeoTag02, Intervalms: 25170
+2019/05/21 16:21:40 Success Publish GeoTagGeoTag02, Intervalms: 25617
+2019/05/21 16:21:40 Success Publish GeoTagGeoTag02, Intervalms: 26018
+2019/05/21 16:21:40 publishWristbandLocations GeoTag3
+2019/05/21 16:21:40 publishWristbandLocations GeoTag3
+OBSERVATION: {"tagId":"GeoTag03","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67292200495954,"lon":12.57370957468232,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:40.726Z"}
+2019/05/21 16:21:41 Success Publish GeoTagGeoTag02, Intervalms: 20371
+2019/05/21 16:21:41 publishWristbandLocations GeoTag3
+2019/05/21 16:21:41 publishWristbandLocations GeoTag3
+OBSERVATION: {"tagId":"GeoTag03","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67438886049081,"lon":12.572447282531954,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:41.172Z"}
+2019/05/21 16:21:41 Success Publish GeoTagGeoTag02, Intervalms: 20379
+2019/05/21 16:21:41 publishWristbandLocations GeoTag3
+2019/05/21 16:21:41 publishWristbandLocations GeoTag3
+OBSERVATION: {"tagId":"GeoTag03","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67411274981195,"lon":12.574890598483414,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:41.574Z"}
+2019/05/21 16:21:42 publishWristbandLocations GeoTag3
+2019/05/21 16:21:42 publishWristbandLocations GeoTag3
+OBSERVATION: {"tagId":"GeoTag03","type":"868","areaId":"LST","motion_state":"unknown","lat":55.673926221246056,"lon":12.572256934662155,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:42.071Z"}
+2019/05/21 16:21:42 publishWristbandLocations GeoTag3
+2019/05/21 16:21:42 publishWristbandLocations GeoTag3
+OBSERVATION: {"tagId":"GeoTag03","type":"868","areaId":"LST","motion_state":"unknown","lat":55.673640908396735,"lon":12.573901724341779,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:42.523Z"}
+2019/05/21 16:21:43 Success Publish GeoTagGeoTag02, Intervalms: 22002
+2019/05/21 16:21:43 Success Publish GeoTagGeoTag02, Intervalms: 19036
+2019/05/21 16:21:43 Success Publish GeoTagGeoTag02, Intervalms: 21551
+2019/05/21 16:21:43 Success Publish GeoTagGeoTag02, Intervalms: 19045
+2019/05/21 16:21:43 Success Publish GeoTagGeoTag02, Intervalms: 21101
+2019/05/21 16:21:44 publishWristbandLocations GeoTag3
+2019/05/21 16:21:44 publishWristbandLocations GeoTag3
+OBSERVATION: {"tagId":"GeoTag03","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67454708257801,"lon":12.567433102686643,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:44.591Z"}
+2019/05/21 16:21:44 publishWristbandLocations GeoTag3
+2019/05/21 16:21:44 publishWristbandLocations GeoTag3
+OBSERVATION: {"tagId":"GeoTag03","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67455788881532,"lon":12.570789172338461,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:44.592Z"}
+2019/05/21 16:21:44 publishWristbandLocations GeoTag3
+2019/05/21 16:21:44 publishWristbandLocations GeoTag3
+OBSERVATION: {"tagId":"GeoTag03","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67455874563777,"lon":12.568094400680135,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:44.594Z"}
+2019/05/21 16:21:44 publishWristbandLocations GeoTag3
+2019/05/21 16:21:44 publishWristbandLocations GeoTag3
+OBSERVATION: {"tagId":"GeoTag03","type":"868","areaId":"LST","motion_state":"unknown","lat":55.674555470819854,"lon":12.570926389658968,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:44.602Z"}
+2019/05/21 16:21:44 publishWristbandLocations GeoTag3
+2019/05/21 16:21:44 publishWristbandLocations GeoTag3
+OBSERVATION: {"tagId":"GeoTag03","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67455501868836,"lon":12.57227377529714,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:44.603Z"}
+2019/05/21 16:21:49 Success Publish GeoTagGeoTag02, Intervalms: 25179
+2019/05/21 16:21:50 Success Publish GeoTagGeoTag03, Intervalms: 25609
+2019/05/21 16:21:50 Success Publish GeoTagGeoTag02, Intervalms: 26057
+2019/05/21 16:21:50 publishWristbandLocations GeoTag3
+2019/05/21 16:21:50 publishWristbandLocations GeoTag3
+OBSERVATION: {"tagId":"GeoTag03","type":"868","areaId":"LST","motion_state":"unknown","lat":55.673768852947326,"lon":12.56770178381191,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:50.736Z"}
+2019/05/21 16:21:51 Success Publish GeoTagGeoTag03, Intervalms: 20360
+2019/05/21 16:21:51 publishWristbandLocations GeoTag4
+2019/05/21 16:21:51 publishWristbandLocations GeoTag4
+OBSERVATION: {"tagId":"GeoTag04","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67512251957221,"lon":12.571541155560812,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:51.183Z"}
+2019/05/21 16:21:51 publishWristbandLocations GeoTag3
+2019/05/21 16:21:51 publishWristbandLocations GeoTag3
+OBSERVATION: {"tagId":"GeoTag03","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67485899613627,"lon":12.571951036407322,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:51.614Z"}
+2019/05/21 16:21:52 publishWristbandLocations GeoTag4
+2019/05/21 16:21:52 publishWristbandLocations GeoTag4
+OBSERVATION: {"tagId":"GeoTag04","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67466137229458,"lon":12.573908375620865,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:52.069Z"}
+2019/05/21 16:21:53 Success Publish GeoTagGeoTag03, Intervalms: 21575
+2019/05/21 16:21:53 Success Publish GeoTagGeoTag03, Intervalms: 22450
+2019/05/21 16:21:53 Success Publish GeoTagGeoTag03, Intervalms: 21098
+2019/05/21 16:21:53 Success Publish GeoTagGeoTag03, Intervalms: 19045
+2019/05/21 16:21:53 Success Publish GeoTagGeoTag03, Intervalms: 19046
+2019/05/21 16:21:54 publishWristbandLocations GeoTag4
+2019/05/21 16:21:54 publishWristbandLocations GeoTag4
+2019/05/21 16:21:54 publishWristbandLocations GeoTag4
+2019/05/21 16:21:54 publishWristbandLocations GeoTag4
+2019/05/21 16:21:54 publishWristbandLocations GeoTag4
+2019/05/21 16:21:54 publishWristbandLocations GeoTag4
+OBSERVATION: {"tagId":"GeoTag04","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67319857704529,"lon":12.574603630268617,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:54.612Z"}
+OBSERVATION: {"tagId":"GeoTag04","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67319857704529,"lon":12.574603630268617,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:54.613Z"}
+OBSERVATION: {"tagId":"GeoTag04","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67319857704529,"lon":12.574603630268617,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:54.613Z"}
+2019/05/21 16:21:54 publishWristbandLocations GeoTag4
+2019/05/21 16:21:54 publishWristbandLocations GeoTag4
+2019/05/21 16:21:54 publishWristbandLocations GeoTag4
+2019/05/21 16:21:54 publishWristbandLocations GeoTag4
+OBSERVATION: {"tagId":"GeoTag04","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67319556603406,"lon":12.569488699411254,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:54.620Z"}
+OBSERVATION: {"tagId":"GeoTag04","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67319556603406,"lon":12.569488699411254,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:21:54.620Z"}
+2019/05/21 16:21:59 Success Publish GeoTagGeoTag03, Intervalms: 25165
+2019/05/21 16:22:00 Success Publish GeoTagGeoTag03, Intervalms: 25612
+2019/05/21 16:22:00 Success Publish GeoTagGeoTag03, Intervalms: 26058
+2019/05/21 16:22:00 publishWristbandLocations GeoTag4
+2019/05/21 16:22:00 publishWristbandLocations GeoTag4
+OBSERVATION: {"tagId":"GeoTag04","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67566144593479,"lon":12.574995159520928,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:00.754Z"}
+2019/05/21 16:22:01 Success Publish GeoTagGeoTag03, Intervalms: 20364
+2019/05/21 16:22:01 publishWristbandLocations GeoTag4
+2019/05/21 16:22:01 publishWristbandLocations GeoTag4
+OBSERVATION: {"tagId":"GeoTag04","type":"868","areaId":"LST","motion_state":"unknown","lat":55.675793175003484,"lon":12.57149026616944,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:01.191Z"}
+2019/05/21 16:22:01 Success Publish GeoTagGeoTag03, Intervalms: 20355
+2019/05/21 16:22:01 publishWristbandLocations GeoTag4
+2019/05/21 16:22:01 publishWristbandLocations GeoTag4
+OBSERVATION: {"tagId":"GeoTag04","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67516118063679,"lon":12.571318075502337,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:01.633Z"}
+2019/05/21 16:22:02 publishWristbandLocations GeoTag4
+2019/05/21 16:22:02 publishWristbandLocations GeoTag4
+OBSERVATION: {"tagId":"GeoTag04","type":"868","areaId":"LST","motion_state":"unknown","lat":55.674873459930524,"lon":12.573100142242689,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:02.092Z"}
+2019/05/21 16:22:02 publishWristbandLocations GeoTag4
+2019/05/21 16:22:02 publishWristbandLocations GeoTag4
+OBSERVATION: {"tagId":"GeoTag04","type":"868","areaId":"LST","motion_state":"unknown","lat":55.674698085358855,"lon":12.5724751277598,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:02.528Z"}
+2019/05/21 16:22:03 Success Publish GeoTagGeoTag03, Intervalms: 22053
+2019/05/21 16:22:03 Success Publish GeoTagGeoTag03, Intervalms: 19036
+2019/05/21 16:22:03 Success Publish GeoTagGeoTag03, Intervalms: 21556
+2019/05/21 16:22:03 Success Publish GeoTagGeoTag03, Intervalms: 21104
+2019/05/21 16:22:03 Success Publish GeoTagGeoTag03, Intervalms: 19052
+2019/05/21 16:22:04 publishWristbandLocations GeoTag4
+2019/05/21 16:22:04 publishWristbandLocations GeoTag4
+2019/05/21 16:22:04 publishWristbandLocations GeoTag4
+2019/05/21 16:22:04 publishWristbandLocations GeoTag4
+2019/05/21 16:22:04 publishWristbandLocations GeoTag4
+2019/05/21 16:22:04 publishWristbandLocations GeoTag4
+2019/05/21 16:22:04 publishWristbandLocations GeoTag4
+2019/05/21 16:22:04 publishWristbandLocations GeoTag4
+OBSERVATION: {"tagId":"GeoTag04","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67551582899061,"lon":12.57498851084128,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:04.627Z"}
+OBSERVATION: {"tagId":"GeoTag04","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67551582899061,"lon":12.57498851084128,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:04.627Z"}
+OBSERVATION: {"tagId":"GeoTag04","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67551582899061,"lon":12.57498851084128,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:04.627Z"}
+OBSERVATION: {"tagId":"GeoTag04","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67551582899061,"lon":12.57498851084128,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:04.627Z"}
+2019/05/21 16:22:04 publishWristbandLocations GeoTag4
+2019/05/21 16:22:04 publishWristbandLocations GeoTag4
+OBSERVATION: {"tagId":"GeoTag04","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67549451421574,"lon":12.574876076212604,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:04.644Z"}
+2019/05/21 16:22:09 Success Publish GeoTagGeoTag03, Intervalms: 25160
+2019/05/21 16:22:10 Success Publish GeoTagGeoTag03, Intervalms: 25615
+2019/05/21 16:22:10 Success Publish GeoTagGeoTag03, Intervalms: 26051
+2019/05/21 16:22:10 publishWristbandLocations GeoTag4
+2019/05/21 16:22:10 publishWristbandLocations GeoTag4
+OBSERVATION: {"tagId":"GeoTag04","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67587775989109,"lon":12.568659965426667,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:10.763Z"}
+2019/05/21 16:22:11 Success Publish GeoTagGeoTag03, Intervalms: 20360
+2019/05/21 16:22:11 publishWristbandLocations GeoTag4
+2019/05/21 16:22:11 publishWristbandLocations GeoTag4
+OBSERVATION: {"tagId":"GeoTag04","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67569552739555,"lon":12.567099194249407,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:11.212Z"}
+2019/05/21 16:22:11 Success Publish GeoTagGeoTag04, Intervalms: 20381
+2019/05/21 16:22:11 publishWristbandLocations GeoTag4
+2019/05/21 16:22:11 publishWristbandLocations GeoTag4
+OBSERVATION: {"tagId":"GeoTag04","type":"868","areaId":"LST","motion_state":"unknown","lat":55.672573232724396,"lon":12.568767710517635,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:11.654Z"}
+2019/05/21 16:22:12 publishWristbandLocations GeoTag4
+2019/05/21 16:22:12 publishWristbandLocations GeoTag4
+OBSERVATION: {"tagId":"GeoTag04","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67688547445587,"lon":12.570975032472788,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:12.098Z"}
+2019/05/21 16:22:12 publishWristbandLocations GeoTag5
+2019/05/21 16:22:12 publishWristbandLocations GeoTag5
+OBSERVATION: {"tagId":"GeoTag05","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67660633286531,"lon":12.568303138504653,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:12.564Z"}
+2019/05/21 16:22:13 Success Publish GeoTagGeoTag03, Intervalms: 22031
+2019/05/21 16:22:13 Success Publish GeoTagGeoTag04, Intervalms: 21575
+2019/05/21 16:22:13 Success Publish GeoTagGeoTag04, Intervalms: 19032
+2019/05/21 16:22:13 Success Publish GeoTagGeoTag04, Intervalms: 19042
+2019/05/21 16:22:14 publishWristbandLocations GeoTag5
+2019/05/21 16:22:14 publishWristbandLocations GeoTag4
+2019/05/21 16:22:14 publishWristbandLocations GeoTag5
+2019/05/21 16:22:14 publishWristbandLocations GeoTag4
+2019/05/21 16:22:14 publishWristbandLocations GeoTag5
+2019/05/21 16:22:14 publishWristbandLocations GeoTag5
+OBSERVATION: {"tagId":"GeoTag05","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67292727040995,"lon":12.567185773188223,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:14.647Z"}
+OBSERVATION: {"tagId":"GeoTag05","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67292727040995,"lon":12.567185773188223,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:14.647Z"}
+OBSERVATION: {"tagId":"GeoTag04","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67292727040995,"lon":12.567185773188223,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:14.647Z"}
+2019/05/21 16:22:14 publishWristbandLocations GeoTag5
+2019/05/21 16:22:14 publishWristbandLocations GeoTag5
+OBSERVATION: {"tagId":"GeoTag05","type":"868","areaId":"LST","motion_state":"unknown","lat":55.6730117104847,"lon":12.570330131192387,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:14.656Z"}
+2019/05/21 16:22:19 Success Publish GeoTagGeoTag04, Intervalms: 25162
+2019/05/21 16:22:20 Success Publish GeoTagGeoTag04, Intervalms: 25609
+2019/05/21 16:22:20 Success Publish GeoTagGeoTag04, Intervalms: 26034
+2019/05/21 16:22:20 publishWristbandLocations GeoTag5
+2019/05/21 16:22:20 publishWristbandLocations GeoTag5
+OBSERVATION: {"tagId":"GeoTag05","type":"868","areaId":"LST","motion_state":"unknown","lat":55.673291771984324,"lon":12.567319858258381,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:20.775Z"}
+2019/05/21 16:22:21 Success Publish GeoTagGeoTag04, Intervalms: 20363
+2019/05/21 16:22:21 publishWristbandLocations GeoTag5
+2019/05/21 16:22:21 publishWristbandLocations GeoTag5
+OBSERVATION: {"tagId":"GeoTag05","type":"868","areaId":"LST","motion_state":"unknown","lat":55.673108292015904,"lon":12.569801204189968,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:21.231Z"}
+2019/05/21 16:22:21 Success Publish GeoTagGeoTag04, Intervalms: 20380
+2019/05/21 16:22:21 publishWristbandLocations GeoTag5
+2019/05/21 16:22:21 publishWristbandLocations GeoTag5
+OBSERVATION: {"tagId":"GeoTag05","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67325949690804,"lon":12.571798309917346,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:21.655Z"}
+2019/05/21 16:22:22 publishWristbandLocations GeoTag5
+2019/05/21 16:22:22 publishWristbandLocations GeoTag5
+OBSERVATION: {"tagId":"GeoTag05","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67470586251405,"lon":12.567728724024446,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:22.120Z"}
+2019/05/21 16:22:22 publishWristbandLocations GeoTag5
+2019/05/21 16:22:22 publishWristbandLocations GeoTag5
+OBSERVATION: {"tagId":"GeoTag05","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67442302676078,"lon":12.569236362304132,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:22.571Z"}
+2019/05/21 16:22:23 Success Publish GeoTagGeoTag04, Intervalms: 21570
+2019/05/21 16:22:23 Success Publish GeoTagGeoTag04, Intervalms: 22029
+2019/05/21 16:22:23 Success Publish GeoTagGeoTag04, Intervalms: 21134
+2019/05/21 16:22:23 Success Publish GeoTagGeoTag04, Intervalms: 19035
+2019/05/21 16:22:23 Success Publish GeoTagGeoTag04, Intervalms: 19050
+2019/05/21 16:22:24 publishWristbandLocations GeoTag5
+2019/05/21 16:22:24 publishWristbandLocations GeoTag5
+2019/05/21 16:22:24 publishWristbandLocations GeoTag5
+2019/05/21 16:22:24 publishWristbandLocations GeoTag5
+2019/05/21 16:22:24 publishWristbandLocations GeoTag5
+2019/05/21 16:22:24 publishWristbandLocations GeoTag5
+2019/05/21 16:22:24 publishWristbandLocations GeoTag5
+2019/05/21 16:22:24 publishWristbandLocations GeoTag5
+OBSERVATION: {"tagId":"GeoTag05","type":"868","areaId":"LST","motion_state":"unknown","lat":55.675345004269396,"lon":12.57244904219099,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:24.663Z"}
+OBSERVATION: {"tagId":"GeoTag05","type":"868","areaId":"LST","motion_state":"unknown","lat":55.675345004269396,"lon":12.57244904219099,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:24.663Z"}
+OBSERVATION: {"tagId":"GeoTag05","type":"868","areaId":"LST","motion_state":"unknown","lat":55.675345004269396,"lon":12.57244904219099,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:24.663Z"}
+OBSERVATION: {"tagId":"GeoTag05","type":"868","areaId":"LST","motion_state":"unknown","lat":55.675345004269396,"lon":12.57244904219099,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:24.663Z"}
+2019/05/21 16:22:24 publishWristbandLocations GeoTag5
+2019/05/21 16:22:24 publishWristbandLocations GeoTag5
+OBSERVATION: {"tagId":"GeoTag05","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67532610680655,"lon":12.572199389510509,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:24.678Z"}
+2019/05/21 16:22:29 Success Publish GeoTagGeoTag04, Intervalms: 25155
+2019/05/21 16:22:30 Success Publish GeoTagGeoTag04, Intervalms: 25603
+2019/05/21 16:22:30 Success Publish GeoTagGeoTag04, Intervalms: 26034
+2019/05/21 16:22:30 publishWristbandLocations GeoTag5
+2019/05/21 16:22:30 publishWristbandLocations GeoTag5
+OBSERVATION: {"tagId":"GeoTag05","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67562312351953,"lon":12.568228403899061,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:30.783Z"}
+2019/05/21 16:22:31 Success Publish GeoTagGeoTag04, Intervalms: 20336
+2019/05/21 16:22:31 publishWristbandLocations GeoTag5
+2019/05/21 16:22:31 publishWristbandLocations GeoTag5
+OBSERVATION: {"tagId":"GeoTag05","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67544289507916,"lon":12.567877840621408,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:31.231Z"}
+2019/05/21 16:22:31 Success Publish GeoTagGeoTag04, Intervalms: 20370
+2019/05/21 16:22:31 publishWristbandLocations GeoTag5
+2019/05/21 16:22:31 publishWristbandLocations GeoTag5
+OBSERVATION: {"tagId":"GeoTag05","type":"868","areaId":"LST","motion_state":"unknown","lat":55.675160057461966,"lon":12.569385506167295,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:31.678Z"}
+2019/05/21 16:22:32 publishWristbandLocations GeoTag5
+2019/05/21 16:22:32 publishWristbandLocations GeoTag5
+OBSERVATION: {"tagId":"GeoTag05","type":"868","areaId":"LST","motion_state":"unknown","lat":55.676625559729274,"lon":12.572165350900267,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:32.099Z"}
+2019/05/21 16:22:32 publishWristbandLocations GeoTag5
+2019/05/21 16:22:32 publishWristbandLocations GeoTag5
+OBSERVATION: {"tagId":"GeoTag05","type":"868","areaId":"LST","motion_state":"unknown","lat":55.67643128107599,"lon":12.57129065338561,"speed":0.0,"speed_x":0.0,"speed_y":0.0,"speed_z":0.0,"x":0.0,"y":0.0,"z":0.0,"bearing":0.0,"height":0.0,"herr":0.0,"battery_level":2.9,"timestamp":"2019-05-21T14:22:32.582Z"}

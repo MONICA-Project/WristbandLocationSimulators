@@ -1,0 +1,79 @@
+
+plugins {
+    id 'java'
+}
+
+sourceCompatibility = '1.8'
+targetCompatibility = '1.8'
+version = '1.2.2'
+apply plugin: 'java'
+
+
+compileJava {
+    options.incremental = true
+    options.fork = true
+    options.failOnError = true
+}
+
+repositories {
+    mavenCentral()
+}
+ 
+
+jar {
+    baseName = 'wristbandemulator'
+    version = '0.0.1-SNAPSHOT'
+    archiveName = 'App.jar'
+
+    manifest {
+        attributes 'Main-Class': 'main.java.App',
+        'Class-Path': configurations.runtime.files.collect { "lib/$it.name" }.join(' '),
+        'Implementation-Version': project.version
+    }
+
+    from(configurations.compile.collect { it.isDirectory() ? it : zipTree(it) })
+} 
+ 
+dependencies {
+	implementation 'org.apache.httpcomponents:httpclient:4.5.8',
+    [group: 'com.fasterxml.jackson.core', name: 'jackson-core', version: '2.9.4'],
+    [group: 'com.fasterxml.jackson.core', name: 'jackson-annotations', version: '2.9.4'],
+    [group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.9.4'],
+	[group: 'com.fasterxml.jackson.dataformat', name: 'jackson-dataformat-xml', version: '2.9.4']
+    implementation 'org.apache.httpcomponents:httpasyncclient:4.1.4'
+}
+
+sourceSets {
+    main {
+         java {
+            srcDirs = ['src']
+         }
+    }
+
+    test {
+        java {
+            srcDirs = ['test']
+        }
+    }
+}
+
+task copyToLib(type: Copy) {
+    into "$buildDir/libs"
+    from configurations.runtime
+}
+
+task uberJar(type: Jar) {
+    archiveClassifier = 'uber'
+
+    manifest {
+        attributes 'Main-Class': 'main.java.App',
+        'Class-Path': configurations.runtime.files.collect { "lib/$it.name" }.join(' '),
+        'Implementation-Version': project.version
+    }
+    from sourceSets.main.output
+
+    dependsOn configurations.runtimeClasspath
+    from {
+        configurations.runtimeClasspath.findAll { it.name.endsWith('jar') }.collect { zipTree(it) }
+    }
+}

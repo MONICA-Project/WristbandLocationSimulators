@@ -1,0 +1,102 @@
+//NOTE: This is an extraction of source code voluntary modified to show the logic of emulator	
+	//Pseudo-codice main thread (just to analyze logic, NOT RUNNABLE!!!)
+	foreach(observable in list_observables)
+	{
+		RESTCall.putAsync(url_scral, observable.tojson());
+	}
+	
+//Snippet main part code
+import org.apache.http.impl.nio.client.CloseableHttpAsyncClient;
+import org.apache.http.impl.nio.client.HttpAsyncClients;
+import org.apache.http.concurrent.FutureCallback;
+	
+public class RESTCall {
+	[...]
+	private CloseableHttpAsyncClient httpclient = HttpAsyncClients.createDefault();//N.B. It is just an example
+
+	//Procedura richiamata nel thread per ogni osservabile
+	public int putAsync(String url, String json) {
+		try {
+			RequestConfig cfg = getConfig();
+
+			HttpPut put = new HttpPut(url);
+			if (cfg != null) {
+				put.setConfig(cfg);
+			}
+
+			// Set the content and headers
+			StringEntity requestEntity = new StringEntity(json, ContentType.APPLICATION_JSON);
+			put.setEntity(requestEntity);
+
+			for (Map.Entry<String, String> header : headers.entrySet()) {
+				put.addHeader(header.getKey(), header.getValue());
+			}
+
+			// Send it
+			// Future<HttpResponse> future =
+			this.httpclient.execute(put, new FutureCallback<HttpResponse>() {
+
+				@Override
+				public void completed(final HttpResponse response) {
+					call_completed(response);
+				}
+
+				@Override
+				public void failed(final Exception ex) {
+					// latch.countDown();
+					System.out.println(put.getRequestLine() + "->" + ex);
+				}
+
+				@Override
+				public void cancelled() {
+					// latch.countDown();
+					System.out.println(put.getRequestLine() + " cancelled");
+				}
+
+			});
+
+			// HttpResponse response = future.get();
+
+			// httpclient.close();
+		} catch (Exception exc) {
+			System.out.println(String.format("Exception PutAsync: %s", exc.getMessage()));
+		} finally {
+			return 1;
+		}
+	}
+	private RequestConfig getConfig() {
+		//NOTE: Ignore this part (just to configure internet connection)
+		if (sourceInterface != null && !"ANY".equals(sourceInterface)) {
+			NetworkInterface ni = NetworkInterface.getByName(sourceInterface);
+			InetAddress source = ni.getInetAddresses().nextElement();
+			RequestConfig.Builder cb = RequestConfig.custom().setLocalAddress(source);
+			
+			return cb.build();
+		}	
+		return null;
+	}
+	
+	private void call_completed(final HttpResponse response) {
+		try {
+			// latch.countDown();
+			mutexProtectTime.acquire();
+			long intervalFromStart = System.currentTimeMillis() - firstReferenceTime;
+			mutexProtectTime.release();
+
+			mutexProtectTime.acquire();
+			mutexProtectCounter.acquire();
+			System.out.println(
+					response.getStatusLine() + "-> TimeFromRef_ms: " + Long.toString(intervalFromStart)
+							+ ", Count: " + Integer.toString(referenceCounterTime)+", globalCounter: "+Integer.toString(globalCounterTime));
+			mutexProtectTime.release();
+			mutexProtectCounter.release();
+
+			mutexProtectCounter.acquire();
+			referenceCounterTime = referenceCounterTime + 1;
+			globalCounterTime 		= globalCounterTime +1;
+			mutexProtectCounter.release();
+		} catch (Exception ex) {
+
+		}		
+	}
+}
